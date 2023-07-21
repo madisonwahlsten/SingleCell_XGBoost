@@ -7,7 +7,7 @@ This directory contains the core code for the following project
 
 ### Dependencies
 
-Following packages are required to run the code:
+Packages required to run this code are listed in requirements.txt
 
 All codes have been tested with:
 * PyTorch V. 1.11.0+cu113 
@@ -23,8 +23,6 @@ All codes have been tested with:
     * Initial Release
 
 ## Acknowledgments
-
-Special thanks to... 
 
 * This research has made use of data or software obtained from ...
 * Plateypus (https://github.com/soorajachar/plateypus) 
